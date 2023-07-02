@@ -129,6 +129,16 @@ p {
     border-radius: 1em;
 } */
 
+.about-content p {
+    line-height: 2em;
+}
+
+.about-content a {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: var(--primary);
+}
+
 .profile {
     width: 7em;
     min-width: 150px;
